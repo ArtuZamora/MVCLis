@@ -4,3 +4,4 @@
 * Naomi Nicole Guardado Iglesias GI191421
 * Carlos Benjamín Cruz Aparicio CA190023
 * Luis Magdiel Sánchez Cortez SC180226
+Enlace video de funcionamiento: https://youtu.be/1EE1xfZODZc
